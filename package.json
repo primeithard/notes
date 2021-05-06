@@ -61,7 +61,7 @@
     "request": "^2.88.2",
     "rimraf": "3.0.2",
     "sanitize-filename": "1.6.3",
-    "sanitize-html": "1.27.4",
+    "sanitize-html": "2.3.2",
     "sax": "1.2.4",
     "semver": "7.3.2",
     "serve-favicon": "2.5.0",
