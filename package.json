@@ -38,7 +38,7 @@
     "electron-dl": "3.0.2",
     "electron-find": "1.0.6",
     "electron-window-state": "5.0.3",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-session": "1.17.1",
     "file-type": "15.0.1",
     "fs-extra": "9.0.1",
